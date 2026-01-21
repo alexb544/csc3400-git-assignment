@@ -1,4 +1,6 @@
-Project title: "My First Software Engineering Project"
+
+Project title: "My Software Engineering Project!"
+Subtitle: "My First Software Engineering Project"
 
 Alex Blake 1327487
 
