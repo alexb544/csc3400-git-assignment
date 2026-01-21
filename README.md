@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 Project title: "My Software Engineering Project!"
-=======
-Project title: "My First Software Engineering Project"
->>>>>>> f58ea52414e085320d419d1d156b439f00565c5a
+Subtitle: "My First Software Engineering Project"
 
 Alex Blake 1327487
 
