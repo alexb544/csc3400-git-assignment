@@ -1,25 +1,25 @@
-def add(num1, num2):
+def addition(num1, num2):
     try: 
         return float(num1) + float(num2)
     except ValueError: 
         print("Invalid input.")
 
 
-def subtract(num1, num2):
+def subtraction(num1, num2):
     try: 
         return float(num1) - float(num2)
     except ValueError: 
         print("Invalid input.")
 
 
-def multiply(num1, num2):
+def multiplication(num1, num2):
     try: 
         return float(num1) * float(num2)
     except ValueError: 
         print("Invalid input.")
 
 
-def divide(num1, num2):
+def division(num1, num2):
     try: 
         return float(num1) / float(num2)
     except ValueError: 
@@ -28,14 +28,14 @@ def divide(num1, num2):
         print("Can't divide by zero.")
 
 
-def power(num, pow):
+def power_of(num, pow):
     try: 
         return float(num) ** float(pow)
     except ValueError: 
         print("Invalid input.")
 
 
-def square_root(num):
+def sqrt_root(num):
     try:
         num = float(num)
         if num < 0:
